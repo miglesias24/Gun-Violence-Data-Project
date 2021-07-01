@@ -7,7 +7,5 @@ Hi Everyone, welcome to my first ever Repository!
 
 # Description:
  - In this repository you will find a gun violence data set extracted from jamesqo/gun-violence-data. Attatched, will also be a code-file to my analysis of the data as well as my own interpretations of my findings. In my code file, I search for any possible trends or hotspots related to gun-violence. With the rise of mass shootings and questionable gun laws, this data is more important than ever. In this repository you will also find geo-maps and graphs represeting trends in the United States. 
- - 
- - 
- - ![_DH 100 Poster - Melissa Iglesias - Page 1](https://user-images.githubusercontent.com/85812420/124067383-2b316280-d9ef-11eb-9df5-c474cffb7601.jpeg)
+ - ![_DH 100 Poster - Melissa Iglesias - Page 1 (1)](https://user-images.githubusercontent.com/85812420/124080882-b7e41c80-d9ff-11eb-8b95-1ecd8a10cfc9.jpeg)
 
